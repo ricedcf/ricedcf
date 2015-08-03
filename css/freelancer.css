@@ -88,7 +88,7 @@ header {
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: 100% 80%;
+    background-size: 100% 100%;
     -o-background-size: cover;
     /*background: #18bc9c */
 }
