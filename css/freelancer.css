@@ -82,7 +82,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background-image: url(../unsplash_003.jpg);
+    background-image: url(../Rice_banner.jpg);
     /*background-color: #16bc4c;*/
     background-position: center center;
     background-repeat: none;
@@ -95,7 +95,7 @@ header {
 
 header .container {
     padding-top: 100px;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
 }
 
 header img {
