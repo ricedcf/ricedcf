@@ -82,13 +82,13 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background-image: url(../unsplash_001.jpg);
-    background-color: #16bc4c;
+    background-image: url(../unsplash_006_a.jpg);
+    /*background-color: #16bc4c;*/
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: cover;
+    background-size: 100% 100%;
     -o-background-size: cover;
     /*background: #18bc9c */
 }
